@@ -1,5 +1,7 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harzulu&theme=midnight-purple" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=harzulu&theme=midnight-purple" />
+
 
 <!--
 **harzulu/harzulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
